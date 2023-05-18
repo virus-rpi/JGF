@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CIRCLE
+comment0.text=\r\n\ @author\ virus_rpi\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=CIRCLE()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ CIRCLE.\r\n\ Hier\ werden\ die\ Standardwerte\ eines\ Kreises\ definiert.\r\n
+comment2.params=radius
+comment2.target=void\ setSize(int)
+comment2.text=\r\n\ Diese\ Methode\ setzt\ den\ Radius\ des\ Kreises\ auf\ radius.\r\n\ @param\ radius\ Der\ neue\ Radius\r\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\r\n\ Diese\ Methode\ git\ den\ Radius\ des\ Kreises\ zur\u00FCck\r\n\ @return\ Der\ Radius\ des\ Kreises\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Malt\ Kreis\ neu\r\n
+numComments=5

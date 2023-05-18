@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TEXT
+comment0.text=\r\n\ @author\ virus_rpi\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=TEXT()
+comment1.text=\r\n\ Erzeugt\ einen\ neuen\ Text\ mit\ einer\ Standardposition\ und\ einer\r\n\ Standardf\u00FCllfarbe.\ Das\ zugeh\u00F6rige\ Symbol\ wird\ sofort\ angezeigt.\r\n
+comment2.params=font_size
+comment2.target=void\ setSize(int)
+comment2.text=\r\n\ Diese\ Methode\ setzt\ die\ Schriftgr\u00F6\u00DFe\ des\ Textes\r\n\ @param\ font_size\ Schriftgr\u00F6\u00DFe\r\n
+comment3.params=txt_in
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\r\n\ Diese\ Methode\ \u00E4ndert\ den\ Text\ des\ Textobjekts\r\n\ @param\ txt_in\ String\ der\ angezeigt\ werden\ soll\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Diese\ Methode\ malt\ das\ Objekt\ neu\r\n
+numComments=5

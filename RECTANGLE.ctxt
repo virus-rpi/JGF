@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RECTANGLE
+comment0.text=\r\n\ @author\:\ virus_rpi\ \r\n\ @version\:\ 2.0\r\n
+comment1.params=
+comment1.target=RECTANGLE()
+comment1.text=\r\n\ Das\ ist\ der\ Konstruktor\ von\ der\ Klasse\ RECTANGLE.\r\n\ Hier\ werden\ die\ Standardwerte\ eines\ Rechteckes\ definiert.\r\n\ Mehr\ informationen\ zu\ den\ Methoden\ von\ RECTANGLE\ findest\ du\ in\ der\ Dokumentation\ von\ POLYGON\r\n
+comment2.params=neueBreite\ newHeight
+comment2.target=void\ setSize(int,\ int)
+comment2.text=\r\n\ Diese\ Methode\ ver\u00E4ndert\ die\ Gr\u00F6\u00DFe\ vom\ Rechteck\r\n\ @param\ neueBreite\r\n\ @param\ newHeight\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Diese\ Methode\ malt\ das\ Rechteck\ im\ Fenster.\r\n
+numComments=4

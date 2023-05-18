@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ELLIPSIS
+comment0.text=\r\n\ @author\ virus_rpi\r\n\ @version\ 2.1\r\n
+comment1.params=
+comment1.target=ELLIPSIS()
+comment1.text=\r\n\ Das\ ist\ der\ Konstruktor\ von\ der\ Klasse\ ELLIPSIS.\r\n\ Hier\ werden\ die\ Standardwerte\ einer\ Ellipse\ festlegen\r\n
+comment2.params=neueBreite\ newHeight
+comment2.target=void\ setSize(int,\ int)
+comment2.text=\r\n\ Diese\ Methode\ ver\u00E4ndert\ die\ H\u00F6he\ und\ Breite\ der\ Ellipse\r\n\ @param\ neueBreite\ Die\ neue\ Breite\r\n\ @param\ newHeight\ Die\ neue\ H\u00F6he\r\n
+comment3.params=
+comment3.target=int\ getWidth()
+comment3.text=\r\n\ Diese\ Methode\ gibt\ die\ Breite\ der\ Ellipse\ zur\u00FCck\r\n\ @return\ Die\ Breite\ der\ Ellipse\r\n
+comment4.params=
+comment4.target=int\ getHeight()
+comment4.text=\r\n\ Diese\ Methode\ gibt\ die\ H\u00F6he\ der\ Ellipse\ zur\u00FCck\r\n\ @return\ Die\ H\u00F6he\ der\ Ellipse\r\n
+comment5.params=
+comment5.target=void\ draw()
+numComments=6

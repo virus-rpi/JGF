@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AUDIO
+comment0.text=\r\n\ Diese\ Klasse\ kann\ Audio\ abspielen\r\n\ \r\n\ @author\ virus_rpi\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=AUDIO()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Audio\r\n
+comment2.params=path
+comment2.target=void\ play(java.lang.String)
+comment2.text=\r\n\ Diese\ Klasse\ Audio\ im\ wav\ format\ abspeilen,\ der\ am\ Pfad\ liegt,\ den\ man\ eingibt.\r\n\ \r\n\ @param\ path\ \ \ \ Pfad\ der\ .wav\ Datei\r\n
+numComments=3

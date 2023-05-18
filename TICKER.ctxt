@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TICKER
+comment1.params=delay
+comment1.target=TICKER(int)
+comment1.text=\r\n\ Das\ ist\ der\ Konstruktor\ von\ der\ Klasse\ TICKER.\ Hier\ wird\ der\ delay\ zwischen\ den\ ticks\ festgelegt.\r\n\ @param\ delay\ Abstand\ zwischen\ den\ Ticks\ in\ Millisekunden\r\n
+comment2.params=tickevent
+comment2.target=void\ addTickListener(TICKEVENT)
+comment2.text=\r\n\ F\u00FCgt\ eine\ Klasse\ zum\ Event\ Listener\ hinzu.\ Die\ Klasse\ muss\ TICKEVENT\ implementieren\r\n\ @param\ tickevent\ hier\ Variablen\ in\ der\ eine\ Instanz\ der\ Klasse\ gespeichert\ ist\ angeben.\r\n
+comment3.params=
+comment3.target=void\ tick()
+comment3.text=\r\n\ Diese\ Methode\ f\u00FChrt\ alle\ Tick\ funktionen\ aus\r\n
+comment4.params=delay
+comment4.target=void\ initTimer(int)
+comment4.text=\r\n\ Diese\ Methode\ f\u00FChrt\ tick()\ alle\ delay\ Millisekunden\ aus\r\n\ @param\ delay\ Millisekunden\r\n
+comment5.params=
+comment5.target=void\ run()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Keyboard
+comment1.params=keyCode
+comment1.target=boolean\ isKeyPressed(int)
+comment1.text=\r\n\ Diese\ Methode\ gibt\ zur\u00FCck,\ ob\ die\ Taste\ mit\ dem\ eingegebenen\ Keycode\ gedr\u00FCckt\ ist\r\n\ @param\ keyCode\ Keycode\ der\ Taste\r\n\ @return\ Boolean\ ob\ Taste\ gedr\u00FCckt\ ist\r\n
+comment2.params=clazz\ keyCode\ methodName
+comment2.target=void\ registerOnPress(java.lang.Class,\ int,\ java.lang.String)
+comment2.text=\r\n\ Diese\ Methode\ kann\ Methoden\ registrieren,\ die\ ausgef\u00FChrt\ werden\ sollen,\ wenn\ eine\ bestimmte\ Taste\ gedr\u00FCckt\ wird.\r\n\ @param\ clazz\ Klasse\ in\ der\ die\ auszuf\u00FChrende\ Methode\ liegt\ (z.B.\ ExampleClass.class)\r\n\ @param\ keyCode\ Keycode\ der\ zudr\u00FCckenden\ Taste\ (Liste\ mit\ Keycodes\ in\ README.txt)\r\n\ @param\ methodName\ Name\ der\ auszuf\u00FChrenden\ Methode\ (muss\ public\ und\ static\ sein,\ darf\ keine\ Argumente\ ben\u00F6tigen)\r\n
+comment3.params=keyCode
+comment3.target=void\ runOnPresses(int)
+comment3.text=\r\n\ Diese\ Methode\ f\u00FChrt\ alle\ registrierten\ Methoden\ aus.\ Diese\ Methode\ wird\ automatisch\ ausgef\u00FChrt.\r\n\ @param\ keyCode\ Keycode\ der\ gedr\u00FCckten\ Taste\r\n
+numComments=4

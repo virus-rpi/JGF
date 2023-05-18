@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PICTURE
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ PICTURE.\r\n\ \r\n\ @author\ virus_rpi\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=PICTURE()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ PICTURE\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=path
+comment3.target=void\ setPic(java.lang.String)
+comment4.params=path
+comment4.target=void\ setPicFromURL(java.lang.String)
+comment5.params=w\ h
+comment5.target=void\ setSize(int,\ int)
+comment6.params=percent
+comment6.target=void\ resize(double)
+comment7.params=originalImage\ targetWidth\ targetHeight
+comment7.target=java.awt.image.BufferedImage\ resizeImage(java.awt.image.BufferedImage,\ int,\ int)
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CUSTOMPOLYGON
+comment0.text=\r\n\ @author\:\ virus_rpi\ \r\n\ @version\:\ 1.0\r\n
+comment1.params=pointsX\ pointsY
+comment1.target=CUSTOMPOLYGON(int[],\ int[])
+comment1.text=\r\n\ Das\ ist\ der\ Konstruktor\ von\ der\ Klasse\ CUSTOM-POLYGON.\r\n\ Hier\ werden\ die\ Standardwerte\ eines\ Polygons\ definiert.\r\n\ Mehr\ informationen\ zu\ den\ Methoden\ von\ CUSTOM-POLYGON\ findest\ du\ in\ der\ Dokumentation\ von\ POLYGON\r\n
+comment2.params=pX
+comment2.target=void\ setPositionsX(int[])
+comment2.text=\r\n\ Diese\ Methode\ \u00E4ndert\ die\ X\ Positionen\ der\ Punkte\r\n\ @param\ pX\ Liste\ an\ X\ Positionen\r\n
+comment3.params=pY
+comment3.target=void\ setPositionsY(int[])
+comment3.text=\r\n\ Diese\ Methode\ \u00E4ndert\ die\ Y\ Positionen\ der\ Punkte\r\n\ @param\ pY\ Liste\ an\ Y\ Positionen\r\n
+numComments=4
